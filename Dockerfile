@@ -10,7 +10,7 @@ LABEL org.opencontainers.image.title="student-ml-api" \
       org.opencontainers.image.version="${APP_VERSION}" \
       org.opencontainers.image.revision="${GIT_COMMIT}" \
       org.opencontainers.image.created="${BUILD_DATE}" \
-      org.opencontainers.image.source="https://github.com/<your-username>/student-ml-api"
+      org.opencontainers.image.source="https://github.com/maimoona-i/student-ml-api"
 
 WORKDIR /app
 
