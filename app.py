@@ -1,3 +1,4 @@
+# student-ml-api: simple prediction service exposing /health and /predict
 import os
 from fastapi import FastAPI
 from pydantic import BaseModel
